@@ -1,0 +1,1 @@
+This project explains the consulting services provided to an American client. Find the consulting report and timesheet in the repository.
